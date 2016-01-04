@@ -105,8 +105,8 @@ a:hover {
 /* Images */
 
 .background {
-    background-image: url ('images/hbk.png');
-    background-repeat: no-repeat;
+   /* Delete background class from <body> for a vanilla style */
+   background: url(../images/hbk.png) top center no-repeat;
 }
 
 img.avatar {
