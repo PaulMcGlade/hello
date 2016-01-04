@@ -7,6 +7,6 @@ It contains links to some of my most recent work.
 Hope you like it.
 
 ####Credits:
-
++ Mr. Tim Potter: [Little Thunder Co.](https://github.com/timpotter)
 + Default Avatar: [UI Faces](http://uifaces.com/)
 + Social Icons: [Whanncons by Josh Whann](http://whanncons.com/)
