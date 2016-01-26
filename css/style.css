@@ -30,7 +30,7 @@ body {
 }
 
 header {
-  text-align: center;
+  text-align: justify;
   text-transform: capitalize;
 }
 
@@ -57,7 +57,7 @@ p {
 
 .about p {
   padding: 1em;
-  text-align: left;
+  text-align: justify;
 }
 
 footer p {
@@ -136,10 +136,10 @@ a:hover {
 }
 
 img.avatar {
-  margin-bottom: 30px;
-  border-radius: 30px;
-  width: 150px;
-  height: 150px;
+  margin-bottom: 70px;
+  border-radius: 100%;
+  width: 125px;
+  height: 125px;
   margin-top: -30px;
 }
 
