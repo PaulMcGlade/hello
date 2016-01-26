@@ -140,7 +140,7 @@ img.avatar {
   border-radius: 100%;
   width: 125px;
   height: 125px;
-  margin-top: 150px;
+  margin-top: -150px;
 }
 
 
