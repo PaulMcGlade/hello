@@ -87,7 +87,7 @@ a:hover {
 .port {
     margin: 5px;
     border: 1px solid #ccc;
-    display: inline;
+    display: inline-block;
     width: 45%;
 }	
 
