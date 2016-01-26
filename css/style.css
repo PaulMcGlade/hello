@@ -137,10 +137,10 @@ a:hover {
 
 img.avatar {
   margin-bottom: 30px;
-  border-radius: 90%;
+  border-radius: 100%;
   width: 125px;
   height: 125px;
-  margin-top: -50px;
+  margin-top: -30px;
 }
 
 
