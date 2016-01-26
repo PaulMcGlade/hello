@@ -141,7 +141,7 @@ img.avatar {
 
 
 .social li img {
-  width: 40px;
+  width: 50px;
 }
 
 /* Layout */
@@ -161,6 +161,7 @@ img.avatar {
 
 footer {
   margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 
