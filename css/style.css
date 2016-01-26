@@ -118,7 +118,7 @@ a:hover {
 }
 
 .social li {
-  float: left;
+  display: inline;
   margin: 5px;
   color: #444;
 }
