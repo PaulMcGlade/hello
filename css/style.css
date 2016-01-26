@@ -115,9 +115,9 @@ a:hover {
 
 .port {
   display: inline-block;
-  width: 250px;
-  height: 250px;
-  margin: 10px;
+  width: 200px;
+  height: 200px;
+  margin: 5px;
   border: 1px solid #ccc;
 }
 
@@ -137,7 +137,7 @@ img.avatar {
 }
 
 .port li img {
-  width: 250px;
+  width: 200px;
 }
 
 .social li img {
