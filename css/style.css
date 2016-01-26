@@ -85,8 +85,8 @@ a:hover {
 }
 
 .port {
-    padding: 3em;
-    margin: 1em;
+    
+    margin: 5px;
     border: 1px solid #ccc;
     display: inline;
     width: 240px;
@@ -152,7 +152,7 @@ img.avatar {
 /* Layout */
 
 .container {
-  width: 650px;
+  width: 600px;
   margin: 100px auto 25px;
   background-color: #fcfcfc;
   padding: 0 60px 30px;
