@@ -88,7 +88,7 @@ a:hover {
     margin: 5px;
     border: 1px solid #ccc;
     display: inline-block;
-    width: 230px;
+    width: 225px;
     
 }	
 
@@ -137,7 +137,7 @@ a:hover {
 
 img.avatar {
   margin-bottom: 30px;
-  border-radius: 70%;
+  border-radius: 80%;
   width: 150px;
   height: 150px;
   margin-top: -30px;
