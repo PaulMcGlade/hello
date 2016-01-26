@@ -137,7 +137,7 @@ a:hover {
 
 img.avatar {
   margin-bottom: 30px;
-  border-radius: 80%;
+  border-radius: 90%;
   width: 150px;
   height: 150px;
   margin-top: -30px;
@@ -152,7 +152,7 @@ img.avatar {
 
 .container {
   width: 600px;
-  margin: 100px auto 25px;
+  margin: 1em;
   background-color: #fcfcfc;
   padding: 0 60px 30px;
   border-radius: 6px;
