@@ -114,10 +114,10 @@ a:hover {
 }
 
 .port li {
-  display: inline;
+  display: inline-block;
   float: left
   margin: 5px;
-  color: #444;
+  border: 1px solid #ccc;
 }
 
 /* Images */
@@ -136,9 +136,7 @@ img.avatar {
 }
 
 .port li img {
-  
   width: 150px;
-  
 }
 
 .social li img {
