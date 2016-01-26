@@ -118,13 +118,13 @@ img.avatar {
 }
 
 img.port {
-  margin-bottom: 30px;
+  float: left;
+  margin: 10px;
   border-radius: 90%;
   width: 250px;
   height: 250px;
-  margin-top: -30px;
   border: 1px solid #ccc;
-  float: left;
+  
 }
 
 .social li img {
