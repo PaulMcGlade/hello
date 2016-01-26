@@ -114,7 +114,8 @@ a:hover {
 }
 
 .port li {
-  display: inline;
+  display: inline-block;
+  width: 250px;
   margin-top: 30px;
   border-radius: 30%;
   margin: 5px;
