@@ -116,7 +116,7 @@ a:hover {
 .port li {
   display: inline-block;
   border-radius: 10%;
-  float: left
+  float: left;
   margin: 5px;
   border: 1px solid #ccc;
 }
