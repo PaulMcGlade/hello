@@ -42,17 +42,17 @@ header p {
 h1 {
   font-weight: 100;
   font-size: 3em; /* 48/16 */
-  margin-bottom: 0.6em;
-  line-height: 1em;
+  margin-bottom: 0.3em;
+  line-height: 0.3em;
 }
 
 p {
-  line-height: 1.75em;
+  line-height: 1em;
 }
 
 .about p:nth-of-type(1) { 
-  font-size: 1.5em; /* 24/16 */
-  line-height: 1.5em;
+  font-size: 1em; 
+  line-height: 1em;
 }
 
 .about p {
@@ -88,7 +88,7 @@ a:hover {
     margin: 5px;
     border: 1px solid #ccc;
     display: inline-block;
-    width: 240px;
+    width: 230px;
     
 }	
 
