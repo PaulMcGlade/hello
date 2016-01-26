@@ -102,6 +102,23 @@ a:hover {
   color: #444;
 }
 
+.port a {
+  opacity: 0.3;
+  transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
+
+.port a:hover {
+  opacity: 0.8;
+}
+
+.port li {
+  display: inline;
+  margin: 5px;
+  color: #444;
+}
+
 /* Images */
 
 .background {
