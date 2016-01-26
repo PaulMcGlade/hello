@@ -115,11 +115,9 @@ a:hover {
 
 .social a:hover {
   opacity: 0.8;
+  background-color: red;
 }
 
-.social a.active{
-                background-color: red;
-                color: #444;
 
 .social li {
   display: inline;
