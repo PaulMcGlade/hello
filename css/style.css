@@ -30,7 +30,7 @@ body {
 }
 
 header {
-  text-align: justify;
+  text-align: center;
   text-transform: capitalize;
 }
 
@@ -140,7 +140,7 @@ img.avatar {
   border-radius: 90%;
   width: 125px;
   height: 125px;
-  margin-top: -40px;
+  margin-top: -80px;
 }
 
 
