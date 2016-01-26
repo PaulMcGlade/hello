@@ -117,6 +117,10 @@ a:hover {
   opacity: 0.8;
 }
 
+.social a.active{
+                background-color: red;
+                color: #444;
+
 .social li {
   display: inline;
   margin: 5px;
