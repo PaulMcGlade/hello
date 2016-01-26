@@ -42,7 +42,7 @@ header p {
 h1 {
   font-weight: 140;
   font-size: 3em; /* 48/16 */
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
   line-height: 1.7em;
 }
 
@@ -88,7 +88,7 @@ a:hover {
     margin: 10px;
     border: 1px solid #ccc;
     display: inline-block;
-    width: 240px;
+    width: 220px;
     
 }	
 
