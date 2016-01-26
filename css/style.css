@@ -103,18 +103,18 @@ a:hover {
 }
 
 .port a {
-  opacity: 0.3;
+  opacity: 0.8;
   transition: opacity .25s ease-in-out;
    -moz-transition: opacity .25s ease-in-out;
    -webkit-transition: opacity .25s ease-in-out;
 }
 
 .port a:hover {
-  opacity: 0.8;
+  opacity: 0.3;
 }
 
 .port li {
-  display: inline;
+  display: inline-block;
   margin: 5px;
   color: #444;
 }
