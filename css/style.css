@@ -42,8 +42,8 @@ header p {
 h1 {
   font-weight: 100;
   font-size: 3em; /* 48/16 */
-  margin-bottom: 0.3em;
-  line-height: 0.3em;
+  margin-bottom: 0.8em;
+  line-height: 0.8em;
 }
 
 p {
@@ -85,10 +85,10 @@ a:hover {
 }
 
 .port {
-    margin: 5px;
+    margin: 10px;
     border: 1px solid #ccc;
     display: inline-block;
-    width: 210px;
+    width: 240px;
     
 }	
 
