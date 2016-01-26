@@ -40,7 +40,7 @@ header p {
 }
 
 h1 {
-  font-weight: 100;
+  font-weight: 140;
   font-size: 3em; /* 48/16 */
   margin-bottom: 1em;
   line-height: 1.7em;
@@ -51,8 +51,8 @@ p {
 }
 
 .about p:nth-of-type(1) { 
-  font-size: 1em; 
-  line-height: 1em;
+  font-size: 1.5em; 
+  line-height: 1.5em;
 }
 
 .about p {
