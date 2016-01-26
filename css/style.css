@@ -132,7 +132,8 @@ a:hover {
 
 .background {
    /* Delete background class from <body> for a vanilla style */
-   background: url(../images/hbk.png) top center no-repeat;
+   background: url(../images/hbk.png);
+   background-attachment: fixed;
 }
 
 img.avatar {
