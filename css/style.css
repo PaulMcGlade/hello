@@ -88,7 +88,7 @@ a:hover {
     margin: 5px;
     border: 1px solid #ccc;
     display: inline-block;
-    width: 230px;
+    width: 210px;
     
 }	
 
@@ -123,7 +123,7 @@ a:hover {
 
 .social li {
   display: inline;
-  margin: 1em;
+  margin: 0.2em;
   color: #444;
 }
 
