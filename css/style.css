@@ -85,10 +85,10 @@ a:hover {
 }
 
 .port {
-    margin: 1em 1em 1em 2em;
+    margin: 1em;
     border: 1px solid #ccc;
     display: inline-block;
-    width: 45%;
+    width: 100%;
 }	
 
 .port:hover {
