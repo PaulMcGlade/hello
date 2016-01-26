@@ -42,7 +42,7 @@ header p {
 h1 {
   font-weight: 140;
   font-size: 3em; /* 48/16 */
-  margin-bottom: 0.5em;
+  margin-bottom: 100px auto 25px;
   line-height: 1.7em;
 }
 
