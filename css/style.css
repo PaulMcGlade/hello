@@ -57,16 +57,16 @@ p {
 
 .about p {
   padding-bottom: 1em;
-  text-align: center;
+  text-align: justify;
 }
 
 footer p {
-  text-align: center;
+  text-align: justify;
   font-size: 0.625em; /* 10/16 */
 }
 
 small {
-  text-align: center;
+  text-align: justify;
 }
 
 strong {
@@ -85,10 +85,9 @@ a:hover {
 }
 
 .port {
-    
     margin: 5px;
     border: 1px solid #ccc;
-    display: inline;
+    display: inline-block;
     width: 240px;
     
 }	
