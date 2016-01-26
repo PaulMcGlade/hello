@@ -81,7 +81,7 @@ a {
 
 a:hover {
   text-decoration: underline;
-  color: #666;
+  color: #FF0000;
 }
 
 .port {
@@ -121,7 +121,7 @@ a:hover {
 .social li {
   display: inline;
   margin: 5px;
-  color: #FF0000;
+  color: #444;
 }
 
 
