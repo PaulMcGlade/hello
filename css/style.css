@@ -102,24 +102,34 @@ a:hover {
   color: #444;
 }
 
-.port a {
-  opacity: 0.8;
-  transition: opacity .25s ease-in-out;
-   -moz-transition: opacity .25s ease-in-out;
-   -webkit-transition: opacity .25s ease-in-out;
-}
-
-.port a:hover {
-  opacity: 0.3;
-}
 
 .port {
-  display: inline-block;
-  width: 200px;
-  height: 200px;
-  margin: 5px;
-  border: 1px solid #ccc;
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}	
+
+.port:hover {
+    border: 1px solid #777;
 }
+
+.port img {
+    width: 100%;
+    height: auto;
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+
+
+
+
+
+
 
 /* Images */
 
@@ -136,9 +146,6 @@ img.avatar {
   margin-top: -30px;
 }
 
-.port li img {
-  width: 200px;
-}
 
 .social li img {
   width: 50px;
