@@ -88,7 +88,7 @@ a:hover {
     margin: 5px;
     border: 2px solid #ccc;
     float: left;
-    width: 250px;
+    width: 180px;
 }	
 
 .port:hover {
@@ -141,7 +141,7 @@ img.avatar {
 
 
 .social li img {
-  width: 55px;
+  width: 60px;
 }
 
 /* Layout */
