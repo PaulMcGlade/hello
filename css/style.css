@@ -113,14 +113,12 @@ a:hover {
   opacity: 0.3;
 }
 
-.port li {
+.port {
   display: inline-block;
   width: 250px;
-  margin-top: 30px;
-  border-radius: 30%;
-  margin: 5px;
+  height: 250px;
+  margin: 10px;
   border: 1px solid #ccc;
-  margin-top: -30px;
 }
 
 /* Images */
