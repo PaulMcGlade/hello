@@ -60,6 +60,16 @@ p {
   text-align: justify;
 }
 
+.contact p:nth-of-type(1) { 
+  font-size: 1.3em; 
+  line-height: 1.5em;
+}
+
+.contact p {
+  padding: 1em;
+  text-align: justify;
+}
+
 footer p {
   text-align: center;
   font-size: 0.625em; /* 10/16 */
