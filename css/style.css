@@ -95,10 +95,10 @@ a:hover {
 }
 
 .port {
-    margin: 10px;
-    border: 1px solid #ccc;
-    display: inline-block;
-    width: 210px;
+    background: grey;
+    width: 20%;
+    margin: 1%;
+    display: inline-block;}
     
 }	
 
@@ -106,16 +106,6 @@ a:hover {
     border: 3px solid #FF0000;
 }
 
-.port img {
-    width: 100%;
-    height: auto;
-}
-
-.desc {
-    padding: 15px;
-    text-align: center;
-    
-}
 
 .social a {
   opacity: 0.3;
